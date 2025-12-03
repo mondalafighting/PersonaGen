@@ -1,0 +1,5 @@
+{
+  "name": "PersonaGen: MBTI Visualizer",
+  "description": "A dynamic character generator for the 16 MBTI personality types using Gemini 3 Pro Image.",
+  "requestFramePermissions": []
+}
